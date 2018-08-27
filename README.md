@@ -45,7 +45,7 @@ This repogistory is a beginner tutorial for you, who want to quickly learn and s
             *   <span>[<span class="toc-item-num">7.3.2.2  </span>Insert And Delete Array Elements](#Insert-And-Delete-Array-Elements)</span>
             *   <span>[<span class="toc-item-num">7.3.2.3  </span>Join And Split Arrays](#Join-And-Split-Arrays)</span>
             *   <span>[<span class="toc-item-num">7.3.2.4  </span>Sorting Arrays](#Sorting-Arrays)</span>
-*   <span>[<span class="toc-item-num">8  </span>YEnd of tutorial.](#You've-reached-the-end-of-this-tutorial.)</span>
+*   <span>[<span class="toc-item-num">8  </span>End of tutorial.](#You've-reached-the-end-of-this-tutorial.)</span>
 
 ## Contributing
 
