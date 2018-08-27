@@ -14,7 +14,7 @@ It provides:
 
 This repogistory is a beginner tutorial for you, who want to quickly learn and start using Numpy for scientific computing. The tutorial is inside the **[notebook file](numpy.ipynb)**.
 
-# Table of Contents
+## Table of Contents
 *   <span>[<span class="toc-item-num">1  </span>NumPy = Numerical Python](#NumPy-=-Numerical-Python)</span>
 *   <span>[<span class="toc-item-num">2  </span>The Numpy ndarray: A Multidimensional Array Object](#The-Numpy-ndarray:-A-Multidimensional-Array-Object)</span>
     *   <span>[<span class="toc-item-num">2.1  </span>NumPy Array's Attributes](#NumPy-Array's-Attributes)</span>
